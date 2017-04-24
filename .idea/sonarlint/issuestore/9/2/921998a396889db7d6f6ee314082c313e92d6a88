@@ -1,0 +1,19 @@
+
+†squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(şÑ­Åûÿÿÿÿ8úĞ·¸+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(şÑ­Åûÿÿÿÿ8ü™Ğ·¸+
+Vsquid:S1161":Add the "@Override" annotation above this method signature(Á»›ê8ü™Ğ·¸+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ää‹éıÿÿÿÿ8ìÎÏ·¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(şú±Ÿûÿÿÿÿ8ìÎÏ·¸+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(ñ§»ÿ8ü™Ğ·¸+
+V
+squid:S106";Replace this usage of System.out or System.err by a logger.(‚Îàû8ìÎÏ·¸+
+1squid:S1220""Move this file to a named package.
+Csquid:S1604"(Make this anonymous inner class a lambda(€Äë8ü™Ğ·¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ü™Ğ·¸+
+[
+squid:S106";Replace this usage of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8ü™Ğ·¸+
+†squid:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(Ää‹éıÿÿÿÿ8úĞ·¸+
+[squid:S1161":Add the "@Override" annotation above this method signature(òõ×Êşÿÿÿÿ8ü™Ğ·¸+
